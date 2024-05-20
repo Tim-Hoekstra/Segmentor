@@ -1,3 +1,7 @@
+/* 
+Coded by Timothy Hoekstra
+https://github.com/Tim-Hoekstra
+*/ 
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
