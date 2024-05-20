@@ -1,5 +1,8 @@
+"""
+Coded by Timothy Hoekstra
+https://github.com/Tim-Hoekstra
+"""
 import pandas as pd
-import csv
 import ipaddress
 import glob
 import subprocess
